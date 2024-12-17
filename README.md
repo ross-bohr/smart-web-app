@@ -9,3 +9,8 @@ docker tag smart-web-app:latest gita.acr.io/web-app/smart-web-app:latest
 
 docker push rossdocker123/smart-web-app
 ```
+
+
+# RDP to Ubuntu
+Xfce (the GUI of choice for the course)
+From Windows: (over SSH) X2go (OSS client) https://wiki.x2go.org/doku.php/doc:installation:x2goclient
